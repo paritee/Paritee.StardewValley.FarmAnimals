@@ -11,7 +11,7 @@ Adds farm animals as new entries to Data/FarmAnimals without overwriting existin
 
 ### Using with BFAV
 
-The following section explains how to add a new farm animal with BFAV (if you do not want to use BFAV, see [Content Patcher only](#using-with-content-patcher)). In this example we will be using [Paritee's White Bull](https://www.nexusmods.com/stardewvalley/mods/3298) mod, but this can be done with any farm animal type that has been loaded into `Data/FarmAnimals`. See [Configure.FarmAnimals](https://github.com/paritee/Better-Farm-Animal-Variety/blob/master/README.md#farmanimals) for more information on the `Types` field.
+The following section explains how to add a new farm animal with the [Better Farm Animal Variety](https://www.nexusmods.com/stardewvalley/mods/3296) (BFAV) mod. In this example we will be using [Paritee's White Bull](https://www.nexusmods.com/stardewvalley/mods/3298) mod, but this can be done with any farm animal type that has been loaded into `Data/FarmAnimals`. See [Configure.FarmAnimals](https://github.com/paritee/Better-Farm-Animal-Variety/blob/master/README.md#farmanimals) for more information on the `Types` field.
 
 1. Make sure you have [installed BFAV](https://github.com/paritee/Better-Farm-Animal-Variety/blob/master/README.md#install)
 2. Unzip the [Paritee's White Bull](https://www.nexusmods.com/stardewvalley/mods/3298) folder into `Stardew Valley/Mods`
