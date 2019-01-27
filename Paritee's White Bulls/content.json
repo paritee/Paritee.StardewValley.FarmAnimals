@@ -36,48 +36,48 @@
     {
       "Action": "EditData",
       "Target": "Data/FarmAnimals",
-        "Fields": {
-          "White Bull": { "25": "Weißer Stier", "26": "Stall" },
+      "Fields": {
+        "White Bull": { "25": "Weißer Stier", "26": "Stall" },
       },
       "When": { "Language": "de" },
     },
     {
       "Action": "EditData",
       "Target": "Data/FarmAnimals",
-        "Fields": {
-          "White Bull": { "25": "toro blanco", "26": "establo" },
+      "Fields": {
+        "White Bull": { "25": "toro blanco", "26": "establo" },
       },
       "When": { "Language": "es" },
     },
     {
       "Action": "EditData",
       "Target": "Data/FarmAnimals",
-        "Fields": {
-          "White Bull": { "25": "白ブル", "26": "家畜小屋" },
+      "Fields": {
+        "White Bull": { "25": "白ブル", "26": "家畜小屋" },
       },
       "When": { "Language": "ja" },
     },
     {
       "Action": "EditData",
       "Target": "Data/FarmAnimals",
-        "Fields": {
-          "White Bull": { "25": "Touro branco", "26": "Celeiro" },
+      "Fields": {
+        "White Bull": { "25": "Touro branco", "26": "Celeiro" },
       },
       "When": { "Language": "pt" },
     },
     {
       "Action": "EditData",
       "Target": "Data/FarmAnimals",
-        "Fields": {
-          "White Bull": { "25": "белый бык", "26": "Хлев" },
+      "Fields": {
+        "White Bull": { "25": "белый бык", "26": "Хлев" },
       },
       "When": { "Language": "ru" },
     },
     {
       "Action": "EditData",
       "Target": "Data/FarmAnimals",
-        "Fields": {
-          "White Bull": { "25": "白色的公牛", "26": "畜棚" },
+      "Fields": {
+        "White Bull": { "25": "白色的公牛", "26": "畜棚" },
       },
       "When": { "Language": "zh" },
     },

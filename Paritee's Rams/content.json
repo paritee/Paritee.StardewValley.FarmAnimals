@@ -10,7 +10,7 @@
       "Action": "EditData",
       "Target": "Data/FarmAnimals",
       "Entries": {
-        "Brown Bull": "1/5/-1/-1/cow/36/64/64/64/36/64/64/64/1/false/Barn/32/32/32/32/15/5/null/639/1500/Brown Bull/Barn",
+        "Ram": "3/4/440/-1/sheep/24/64/84/64/24/64/84/64/1/true/Barn/32/32/32/32/15/5/Shears/644/8000/Ram/Barn",
       }
     },
 
@@ -20,13 +20,18 @@
     
     {
       "Action": "Load",
-      "Target": "Animals/Brown Bull",
-      "FromFile": "assets/Brown Bull.png"
+      "Target": "Animals/Ram",
+      "FromFile": "assets/Ram.png"
     },
     {
       "Action": "Load",
-      "Target": "Animals/BabyBrown Bull",
-      "FromFile": "assets/BabyBrown Bull.png"
+      "Target": "Animals/ShearedRam",
+      "FromFile": "assets/ShearedRam.png"
+    },
+    {
+      "Action": "Load",
+      "Target": "Animals/BabyRam",
+      "FromFile": "assets/BabyRam.png"
     },
 
     // ------------------------------------------------------------------------
@@ -37,7 +42,7 @@
       "Action": "EditData",
       "Target": "Data/FarmAnimals",
       "Fields": {
-        "Brown Bull": { "25": "Brauner Stier", "26": "Stall" },
+        "Ram": { "25": "Widder", "26": "Stall" },
       },
       "When": { "Language": "de" },
     },
@@ -45,7 +50,7 @@
       "Action": "EditData",
       "Target": "Data/FarmAnimals",
       "Fields": {
-        "Brown Bull": { "25": "toro pardo", "26": "establo" },
+        "Ram": { "25": "carnero", "26": "establo" },
       },
       "When": { "Language": "es" },
     },
@@ -53,7 +58,7 @@
       "Action": "EditData",
       "Target": "Data/FarmAnimals",
       "Fields": {
-        "Brown Bull": { "25": "褐色ブル", "26": "家畜小屋" },
+        "Ram": { "25": "牡羊", "26": "家畜小屋" },
       },
       "When": { "Language": "ja" },
     },
@@ -61,7 +66,7 @@
       "Action": "EditData",
       "Target": "Data/FarmAnimals",
       "Fields": {
-        "Brown Bull": { "25": "Touro castanho", "26": "Celeiro" },
+        "Ram": { "25": "羊", "26": "Celeiro" },
       },
       "When": { "Language": "pt" },
     },
@@ -69,7 +74,7 @@
       "Action": "EditData",
       "Target": "Data/FarmAnimals",
       "Fields": {
-        "Brown Bull": { "25": "коричневый бык", "26": "Хлев" },
+        "Ram": { "25": "баран", "26": "Хлев" },
       },
       "When": { "Language": "ru" },
     },
@@ -77,7 +82,7 @@
       "Action": "EditData",
       "Target": "Data/FarmAnimals",
       "Fields": {
-        "Brown Bull": { "25": "棕色的公牛", "26": "畜棚" },
+        "Ram": { "25": "公羊", "26": "畜棚" },
       },
       "When": { "Language": "zh" },
     },
