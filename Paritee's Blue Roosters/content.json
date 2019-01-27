@@ -1,0 +1,85 @@
+{
+  "Format": "1.5",
+  "Changes": [
+
+    // ------------------------------------------------------------------------
+    // Data/FarmAnimals Entry
+    // ------------------------------------------------------------------------
+
+    {
+      "Action": "EditData",
+      "Target": "Data/FarmAnimals",
+      "Entries": {
+        "Blue Rooster": "1/3/-1/-1/rooster/8/32/48/32/8/32/48/32/0/false/Coop/16/16/16/16/4/7/null/641/800/Blue Rooster/Coop",
+      }
+    },
+
+    // ------------------------------------------------------------------------
+    // Sprites
+    // ------------------------------------------------------------------------
+    
+    {
+      "Action": "Load",
+      "Target": "Animals/Blue Rooster",
+      "FromFile": "assets/Blue Rooster.png"
+    },
+    {
+      "Action": "Load",
+      "Target": "Animals/BabyBlue Rooster",
+      "FromFile": "assets/BabyBlue Rooster.png"
+    },
+
+    // ------------------------------------------------------------------------
+    // Localization
+    // ------------------------------------------------------------------------
+    
+    {
+      "Action": "EditData",
+      "Target": "Data/FarmAnimals",
+      "Fields": {
+        "Blue Rooster": { "25": "Blaues Hahn", "26": "Hühnerstall" },
+      },
+      "When": { "Language": "de" },
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/FarmAnimals",
+      "Fields": {
+        "Blue Rooster": { "25": "gallo azul", "26": "corral" },
+      },
+      "When": { "Language": "es" },
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/FarmAnimals",
+      "Fields": {
+        "Blue Rooster": { "25": "青ニおんどり", "26": "小屋" },
+      },
+      "When": { "Language": "ja" },
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/FarmAnimals",
+      "Fields": {
+        "Blue Rooster": { "25": "Galo azul", "26": "Galinheiro" },
+      },
+      "When": { "Language": "pt" },
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/FarmAnimals",
+      "Fields": {
+        "Blue Rooster": { "25": "Голубая петух", "26": "Птичник" },
+      },
+      "When": { "Language": "ru" },
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/FarmAnimals",
+      "Fields": {
+        "Blue Rooster": { "25": "蓝公鸡", "26": "鸡舍" },
+      },
+      "When": { "Language": "zh" },
+    },
+  ]
+}

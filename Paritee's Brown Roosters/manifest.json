@@ -1,0 +1,12 @@
+{
+   "Name": "Paritee's Brown Roosters",
+   "Author": "Paritee",
+   "Version": "1.0.0",
+   "Description": "Adds Brown Rooster as a new entry to Data/FarmAnimals",
+   "UniqueID": "Paritee.BrownRoosters",
+   "MinimumApiVersion": "2.5",
+   "UpdateKeys": [ "Nexus:3305" ],
+   "ContentPackFor": {
+      "UniqueID": "Pathoschild.ContentPatcher"
+   }
+}

@@ -1,0 +1,12 @@
+{
+   "Name": "Paritee's White Roosters",
+   "Author": "Paritee",
+   "Version": "1.0.0",
+   "Description": "Adds White Rooster as a new entry to Data/FarmAnimals",
+   "UniqueID": "Paritee.WhiteRoosters",
+   "MinimumApiVersion": "2.5",
+   "UpdateKeys": [ "Nexus:3304" ],
+   "ContentPackFor": {
+      "UniqueID": "Pathoschild.ContentPatcher"
+   }
+}

@@ -1,0 +1,12 @@
+{
+   "Name": "Paritee's White Bulls",
+   "Author": "Paritee",
+   "Version": "1.0.0",
+   "Description": "Adds White Bulls as a new entry to Data/FarmAnimals",
+   "UniqueID": "Paritee.WhiteBulls",
+   "MinimumApiVersion": "2.5",
+   "UpdateKeys": [ "Nexus:3298" ],
+   "ContentPackFor": {
+      "UniqueID": "Pathoschild.ContentPatcher"
+   }
+}
