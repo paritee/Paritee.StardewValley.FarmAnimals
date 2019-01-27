@@ -1,14 +1,14 @@
 # Farm Animals
 
-For use with the Better Farm Animal Variety (BFAV) mod.
+For use with the [Better Farm Animal Variety](https://github.com/paritee/Better-Farm-Animal-Variety) (BFAV) mod.
 
 ## Install
 
 ### Using with BFAV
 
-The following section explains how to add a new farm animal with BFAV (if you do not want to use BFAV, see [Content Patcher only](#using-bfav-farm-animals-with-only-content-patcher)). In this example we will be using [Paritee's White Bull](https://www.nexusmods.com/stardewvalley/mods/3298) mod, but this can be done with any farm animal type that has been loaded into `Data/FarmAnimals`. See [Configure.FarmAnimals](#farmanimals) for more information on the `Types` field.
+The following section explains how to add a new farm animal with BFAV (if you do not want to use BFAV, see [Content Patcher only](#using-with-content-patcher)). In this example we will be using [Paritee's White Bull](https://www.nexusmods.com/stardewvalley/mods/3298) mod, but this can be done with any farm animal type that has been loaded into `Data/FarmAnimals`. See [Configure.FarmAnimals](https://github.com/paritee/Better-Farm-Animal-Variety/blob/master/README.md#farmanimals) for more information on the `Types` field.
 
-1. Make sure you have [installed BFAV](#install)
+1. Make sure you have [installed BFAV](https://github.com/paritee/Better-Farm-Animal-Variety/blob/master/README.md#install)
 2. Unzip the [Paritee's White Bull](https://www.nexusmods.com/stardewvalley/mods/3298) folder into `Stardew Valley/Mods`
 3. Add "White Bull" to the `Cows.Types` array inside BFAV's `config.json`
 4. Run the game using SMAPI
@@ -72,3 +72,8 @@ You cannot add a new farm animal without BFAV, but you can override and existing
 },
 ```
 
+
+
+## Tools
+
+- [Generate Farm Animal Data](https://paritee.github.io/#generate-data-farmanimals-entry)
