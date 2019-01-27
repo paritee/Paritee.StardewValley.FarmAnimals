@@ -77,7 +77,51 @@ You cannot add a new farm animal without BFAV, but you can override and existing
 },
 ```
 
+## Custom Spritesheets
 
+It is possible to override the default spritesheets for the BFAV farm animals so that you can use your favourite packs. You need to do the following two steps within your Content Patcher skin mod.
+
+### Example
+
+I'll be using [Elle's New Barn] Animals(https://www.nexusmods.com/stardewvalley/mods/3167) as the Content Patcher skin mod and [Paritee's White Bulls](https://www.nexusmods.com/stardewvalley/mods/3298) mod as the BFAV farm animal in the example.
+
+1. Add your target BFAV farm animal's mod `UniqueID` (found in `manifest.json`) as a required dependency in your Content Patcher skin mod's `manifest.json`.
+
+```json
+{
+   "Name": "Elle's New White Cow",
+   ..
+   "ContentPackFor": {
+      "UniqueID": "Pathoschild.ContentPatcher"
+   },
+   "Dependencies": [
+      {
+         "UniqueID": "Paritee.WhiteBulls",
+         "IsRequired": true
+      }
+   ]
+}
+```
+
+2. In your Content Patcher skin mod's `content.json` replace all `"Action": "Load"` to `"Action": "EditImage"` and change all instances of `Target` to the same that's in your BFAV farm animal's `content.json`. Below is what your Content Patcher skin mod's `content.json` should look like.
+
+```json
+{
+  "Format": "1.3",
+  "Changes": [
+       {
+          "Action": "EditImage",
+          "Target": "Animals/White Bull",
+          ..
+       },
+       {
+          "Action": "EditImage",
+          "Target": "Animals/BabyWhite Bull",
+          ..
+       },
+    ]
+}
+```
 
 ## Tools
 
