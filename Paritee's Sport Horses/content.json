@@ -1,0 +1,90 @@
+{
+  "Format": "1.5",
+  "Changes": [
+
+    // ------------------------------------------------------------------------
+    // Data/FarmAnimals Entry
+    // ------------------------------------------------------------------------
+
+    {
+      "Action": "EditData",
+      "Target": "Data/FarmAnimals",
+      "Entries": {
+        "Sport Horse": "3/4/440/-1/grunt/36/64/84/64/36/64/84/64/1/true/Barn/32/32/32/32/15/5/Shears/644/8000/Sport Horse/Barn",
+      }
+    },
+
+    // ------------------------------------------------------------------------
+    // Sprites
+    // ------------------------------------------------------------------------
+    
+    {
+      "Action": "Load",
+      "Target": "Animals/Sport Horse",
+      "FromFile": "assets/Sport Horse.png"
+    },
+    {
+      "Action": "Load",
+      "Target": "Animals/ShearedSport Horse",
+      "FromFile": "assets/ShearedSport Horse.png"
+    },
+    {
+      "Action": "Load",
+      "Target": "Animals/BabySport Horse",
+      "FromFile": "assets/BabySport Horse.png"
+    },
+
+    // ------------------------------------------------------------------------
+    // Localization
+    // ------------------------------------------------------------------------
+    
+    {
+      "Action": "EditData",
+      "Target": "Data/FarmAnimals",
+      "Fields": {
+        "Sport Horse": { "25": "Sportpferd", "26": "Stall" },
+      },
+      "When": { "Language": "de" },
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/FarmAnimals",
+      "Fields": {
+        "Sport Horse": { "25": "caballo deportivo", "26": "establo" },
+      },
+      "When": { "Language": "es" },
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/FarmAnimals",
+      "Fields": {
+        "Sport Horse": { "25": "スポーツホース種", "26": "家畜小屋" },
+      },
+      "When": { "Language": "ja" },
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/FarmAnimals",
+      "Fields": {
+        "Sport Horse": { "25": "Cavalo esporte", "26": "Celeiro" },
+      },
+      "When": { "Language": "pt" },
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/FarmAnimals",
+      "Fields": {
+        "Sport Horse": { "25": "спортивная лошадь", "26": "Хлев" },
+      },
+      "When": { "Language": "ru" },
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/FarmAnimals",
+      "Fields": {
+        "Sport Horse": { "25": "运动马", "26": "畜棚" },
+      },
+      "When": { "Language": "zh" },
+    },
+  ]
+}

@@ -1,0 +1,12 @@
+{
+   "Name": "Paritee's Sport Horses",
+   "Author": "Paritee",
+   "Version": "1.0.0",
+   "Description": "Adds Sport Horse as a new entry to Data/FarmAnimals",
+   "UniqueID": "Paritee.SportHorses",
+   "MinimumApiVersion": "2.5",
+   "UpdateKeys": [ "Nexus:3357" ],
+   "ContentPackFor": {
+      "UniqueID": "Pathoschild.ContentPatcher"
+   }
+}
