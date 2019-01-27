@@ -5,6 +5,7 @@ Adds farm animals as new entries to Data/FarmAnimals without overwriting existin
 ## Contents
 
 - [Get Started](#get-started)
+- [Custom Spritesheets](#custom-spritesheets)
 - [Tools](#tools)
 
 ## Get Started
