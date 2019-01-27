@@ -2,7 +2,12 @@
 
 For use with the [Better Farm Animal Variety](https://github.com/paritee/Better-Farm-Animal-Variety) (BFAV) mod.
 
-## Install
+## Contents
+
+- [Get Started](#get-started)
+- [Tools](#tools)
+
+## Get Started
 
 ### Using with BFAV
 
