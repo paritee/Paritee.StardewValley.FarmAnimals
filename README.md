@@ -84,7 +84,7 @@ It is possible to override the default spritesheets for the BFAV farm animals so
 
 ### Example
 
-I'll be using [Elle's New Barn] Animals(https://www.nexusmods.com/stardewvalley/mods/3167) as the Content Patcher skin mod and [Paritee's White Bulls](https://www.nexusmods.com/stardewvalley/mods/3298) mod as the BFAV farm animal in the example.
+I'll be using [Elle's New Barn Animals](https://www.nexusmods.com/stardewvalley/mods/3167) as the Content Patcher skin mod and [Paritee's White Bulls](https://www.nexusmods.com/stardewvalley/mods/3298) as the BFAV farm animal in the example.
 
 1. Add your target BFAV farm animal's mod `UniqueID` (found in `manifest.json`) as a required dependency in your Content Patcher skin mod's `manifest.json`.
 
