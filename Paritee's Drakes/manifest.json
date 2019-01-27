@@ -1,0 +1,12 @@
+{
+   "Name": "Paritee's Drakes",
+   "Author": "Paritee",
+   "Version": "1.0.0",
+   "Description": "Adds Drake as a new entry to Data/FarmAnimals",
+   "UniqueID": "Paritee.Drakes",
+   "MinimumApiVersion": "2.5",
+   "UpdateKeys": [ "Nexus:3353" ],
+   "ContentPackFor": {
+      "UniqueID": "Pathoschild.ContentPatcher"
+   }
+}

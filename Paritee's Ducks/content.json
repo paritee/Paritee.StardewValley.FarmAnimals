@@ -1,0 +1,21 @@
+{
+  "Format": "1.5",
+  "Changes": [
+
+    // ------------------------------------------------------------------------
+    // Sprites
+    // ------------------------------------------------------------------------
+
+    {
+      "Action": "Load",
+      "Target": "Animals/Duck",
+      "FromFile": "assets/Duck.png"
+    },
+    {
+      "Action": "Load",
+      "Target": "Animals/BabyDuck",
+      "FromFile": "assets/BabyDuck.png"
+    },
+    
+  ]
+}

@@ -1,0 +1,13 @@
+{
+   "Name": "Paritee's Ducks",
+   "Author": "Paritee",
+   "Version": "1.0.0",
+   "Description": "Add Female Ducks.",
+   "Description": "Removes green head on Ducks to better match with Paritee's Drakes",
+   "UniqueID": "Paritee.Ducks",
+   "MinimumApiVersion": "2.5",
+   "UpdateKeys": [ "Nexus:3356" ],
+   "ContentPackFor": {
+      "UniqueID": "Pathoschild.ContentPatcher"
+   }
+}
