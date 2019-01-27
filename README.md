@@ -5,7 +5,7 @@ Adds farm animals as new entries to Data/FarmAnimals without overwriting existin
 ## Contents
 
 - [Get Started](#get-started)
-- [Custom Spritesheets](#custom-spritesheets)
+- [Skins](#skins)
 - [Tools](#tools)
 
 ## Get Started
@@ -78,11 +78,17 @@ You cannot add a new farm animal without BFAV, but you can override and existing
 },
 ```
 
-## Custom Spritesheets
+## Skins
+
+###  More Animals Mod
+
+WIP
+
+### Custom Spritesheets
 
 It is possible to override the default spritesheets for the BFAV farm animals so that you can use your favourite packs. You need to do the following two steps within your Content Patcher skin mod.
 
-### Example
+#### Example
 
 I'll be using [Elle's New Barn Animals](https://www.nexusmods.com/stardewvalley/mods/3167) as the Content Patcher skin mod and [Paritee's White Bulls](https://www.nexusmods.com/stardewvalley/mods/3298) as the BFAV farm animal in the example.
 
