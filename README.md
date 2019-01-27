@@ -1,6 +1,6 @@
 # Farm Animals
 
-For use with the [Better Farm Animal Variety](https://github.com/paritee/Better-Farm-Animal-Variety) (BFAV) mod.
+Adds farm animals as new entries to Data/FarmAnimals without overwriting existing farm animals.
 
 ## Contents
 
