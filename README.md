@@ -51,7 +51,7 @@ Animals with the `tool` harvest type must be interacted with while holding the t
 
 #### Find
 
-Animals with the `find` harvest type will attempt to spawn produce while outside.
+Animals with the `find` harvest type will attempt to spawn produce while outside (ex. `Pigs`).
 
 | Index | Value |
 | --- | --- |
@@ -61,7 +61,7 @@ Animals with the `find` harvest type will attempt to spawn produce while outside
 
 #### None
 
-Animals with the `none` harvest type will never produce objects. This is a special BFAV-enabled harvest type and this syntax does not act the same without BFAV. To achieve without BFAV, simply follow the [find harvest type](#find) syntax for any types other than `Pigs`.
+Animals with the `none` harvest type will never produce objects. This is a special BFAV-enabled harvest type and this syntax does not act the same without BFAV. To achieve without BFAV, you must set the default and deluxe produce to `-1`.
 
 | Index | Value |
 | --- | --- |
