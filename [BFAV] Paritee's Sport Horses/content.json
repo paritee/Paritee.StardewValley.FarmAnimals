@@ -1,0 +1,34 @@
+{
+  "Categories": [
+    {
+      "Action": "Create",
+      "Category": "Sport Horse",
+      "Types": [
+        {
+          "Type": "Sport Horse",
+          "Data": "3/4/440/-1/grunt/36/64/84/64/36/64/84/64/1/true/Barn/32/32/32/32/15/5/Shears/644/8000/Sport Horse/Barn",
+          "AdultSprite": "assets/Sport Horse.png",
+          "BabySprite": "assets/BabySport Horse.png",
+          "ShearedSprite": "assets/ShearedSport Horse.png",
+          "Localization": {
+            "de": [ "Sportpferd", "Stall" ],
+            "es": [ "caballo deportivo", "establo" ],
+            "ja": [ "スポーツホース種", "家畜小屋" ],
+            "pt": [ "Cavalo esporte", "Celeiro" ],
+            "ru": [ "спортивная лошадь", "Хлев" ],
+            "zh": [ "运动马", "畜棚" ],
+          },
+        },
+      ],
+      "Buildings": [
+        "Deluxe Barn"
+      ],
+      "AnimalShop": {
+        "Name": "Sport Horse",
+        "Description": "They love cave carrots and being groomed.",
+        "Icon": "assets/AnimalShop.png",
+        "Exclude": []
+      }
+    },
+  ],
+}

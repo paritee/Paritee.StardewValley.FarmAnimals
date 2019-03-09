@@ -1,0 +1,13 @@
+{
+   "Name": "Paritee's Rams",
+   "Author": "Paritee",
+   "Version": "2.0.0",
+   "Description": "BFAV content pack for Rams",
+   "UniqueID": "Paritee.Rams",
+   "MinimumApiVersion": "2.11",
+   "UpdateKeys": [ "Nexus:3352" ],
+   "ContentPackFor": {
+      "UniqueID": "Paritee.BetterFarmAnimalVariety",
+      "MinimumVersion": "3.0.0"
+   }
+}

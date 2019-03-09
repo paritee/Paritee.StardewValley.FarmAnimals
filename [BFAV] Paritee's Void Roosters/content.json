@@ -1,0 +1,24 @@
+{
+  "Categories": [
+    {
+      "Action": "Update",
+      "Category": "Chicken",
+      "Types": [
+        {
+          "Type": "Void Rooster",
+          "Data": "1/3/176/174/rooster/8/32/48/32/8/32/48/32/1/false/Coop/16/16/16/16/4/7/-1/641/800/Void Rooster/Coop",
+          "AdultSprite": "assets/Void Rooster.png",
+          "BabySprite": "assets/BabyVoid Rooster.png",
+          "Localization": {
+            "de": [ "Schatten Hahn", "Hühnerstall" ],
+            "es": [ "gallo sombría", "corral" ],
+            "ja": [ "闇おんどり", "小屋" ],
+            "pt": [ "Galo nula", "Galinheiro" ],
+            "ru": [ "петух пустоты", "Птичник" ],
+            "zh": [ "无力色公鸡", "鸡舍" ],
+          },
+        },
+      ],
+    },
+  ]
+}

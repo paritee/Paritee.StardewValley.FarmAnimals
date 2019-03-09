@@ -1,0 +1,24 @@
+{
+  "Categories": [
+    {
+      "Action": "Update",
+      "Category": "Chicken",
+      "Types": [
+        {
+          "Type": "Brown Rooster",
+          "Data": "1/3/176/174/rooster/8/32/48/32/8/32/48/32/1/false/Coop/16/16/16/16/4/7/-1/641/800/Brown Rooster/Coop",
+          "AdultSprite": "assets/Brown Rooster.png",
+          "BabySprite": "assets/BabyBrown Rooster.png",
+          "Localization": {
+            "de": [ "Brauner Hahn", "Hühnerstall" ],
+            "es": [ "gallo pardo", "corral" ],
+            "ja": [ "褐色おんどり", "小屋" ],
+            "pt": [ "Galo castanho", "Galinheiro" ],
+            "ru": [ "коричневый петух", "Птичник" ],
+            "zh": [ "棕色公鸡", "鸡舍" ],
+          },
+        },
+      ],
+    },
+  ]
+}

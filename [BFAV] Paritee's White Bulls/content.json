@@ -1,0 +1,24 @@
+{
+  "Categories": [
+    {
+      "Action": "Update",
+      "Category": "Dairy Cow",
+      "Types": [
+        {
+          "Type": "White Bull",
+          "Data": "1/5/184/186/cow/36/64/64/64/36/64/64/64/1/false/Barn/32/32/32/32/15/5/-1/639/1500/White Bull/Barn",
+          "AdultSprite": "assets/White Bull.png",
+          "BabySprite": "assets/BabyWhite Bull.png",
+          "Localization": {
+            "de": [ "Weißer Stier", "Stall" ],
+            "es": [ "toro blanco", "establo" ],
+            "ja": [ "白ブル", "家畜小屋" ],
+            "pt": [ "Touro branco", "Celeiro" ],
+            "ru": [ "белый бык", "Хлев" ],
+            "zh": [ "白色的公牛", "畜棚" ],
+          },
+        },
+      ],
+    },
+  ],
+}

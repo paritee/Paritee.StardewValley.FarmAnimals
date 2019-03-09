@@ -1,0 +1,25 @@
+{
+  "Categories": [
+    {
+      "Action": "Update",
+      "Category": "Sheep",
+      "Types": [
+        {
+          "Type": "Ram",
+          "Data": "3/4/440/-1/sheep/24/64/84/64/24/64/84/64/1/true/Barn/32/32/32/32/15/5/Shears/644/8000/Ram/Barn",
+          "AdultSprite": "assets/Ram.png",
+          "BabySprite": "assets/BabyRam.png",
+          "ShearedSprite": "assets/ShearedRam.png",
+          "Localization": {
+            "de": [ "Widder", "Stall" ],
+            "es": [ "carnero", "establo" ],
+            "ja": [ "牡羊", "家畜小屋" ],
+            "pt": [ "carneiro", "Celeiro" ],
+            "ru": [ "баран", "Хлев" ],
+            "zh": [ "公羊", "畜棚" ],
+          },
+        },
+      ],
+    },
+  ],
+}

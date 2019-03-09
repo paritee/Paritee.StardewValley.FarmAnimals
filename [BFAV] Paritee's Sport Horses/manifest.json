@@ -1,0 +1,13 @@
+{
+   "Name": "Paritee's Sport Horses",
+   "Author": "Paritee",
+   "Version": "2.0.0",
+   "Description": "BFAV content pack for Sport Horses",
+   "UniqueID": "Paritee.SportHorses",
+   "MinimumApiVersion": "2.11",
+   "UpdateKeys": [ "Nexus:3357" ],
+   "ContentPackFor": {
+      "UniqueID": "Paritee.BetterFarmAnimalVariety",
+      "MinimumVersion": "3.0.0"
+   }
+}

@@ -1,0 +1,13 @@
+{
+   "Name": "Paritee's Drakes",
+   "Author": "Paritee",
+   "Version": "2.0.0",
+   "Description": "BFAV content pack for Drakes",
+   "UniqueID": "Paritee.Drakes",
+   "MinimumApiVersion": "2.11",
+   "UpdateKeys": [ "Nexus:3353" ],
+   "ContentPackFor": {
+      "UniqueID": "Paritee.BetterFarmAnimalVariety",
+      "MinimumVersion": "3.0.0"
+   }
+}

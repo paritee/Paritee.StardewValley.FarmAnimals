@@ -1,0 +1,13 @@
+{
+   "Name": "Paritee's White Bulls",
+   "Author": "Paritee",
+   "Version": "2.0.0",
+   "Description": "BFAV content pack for White Bulls",
+   "UniqueID": "Paritee.WhiteBulls",
+   "MinimumApiVersion": "2.11",
+   "UpdateKeys": [ "Nexus:3298" ],
+   "ContentPackFor": {
+      "UniqueID": "Paritee.BetterFarmAnimalVariety",
+      "MinimumVersion": "3.0.0"
+   }
+}

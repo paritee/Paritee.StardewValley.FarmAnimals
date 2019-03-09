@@ -1,0 +1,24 @@
+{
+  "Categories": [
+    {
+      "Action": "Update",
+      "Category": "Goat",
+      "Types": [
+        {
+          "Type": "Billy Goat",
+          "Data": "2/5/436/438/goat/24/64/84/64/24/64/84/64/1/false/Barn/32/32/32/32/10/5/-1/644/4000/Billy Goat/Barn",
+          "AdultSprite": "assets/Billy Goat.png",
+          "BabySprite": "assets/BabyBilly Goat.png",
+          "Localization": {
+            "de": [ "Ziegenbock", "Stall" ],
+            "es": [ "macho cabrío", "establo" ],
+            "ja": [ "雄山羊", "家畜小屋" ],
+            "pt": [ "Bode", "Celeiro" ],
+            "ru": [ "козёл", "Хлев" ],
+            "zh": [ "比利山羊", "畜棚" ],
+          },
+        },
+      ],
+    },
+  ],
+}

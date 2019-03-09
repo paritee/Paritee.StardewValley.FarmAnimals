@@ -1,0 +1,24 @@
+{
+  "Categories": [
+    {
+      "Action": "Update",
+      "Category": "Chicken",
+      "Types": [
+        {
+          "Type": "Blue Rooster",
+          "Data": "1/3/176/174/rooster/8/32/48/32/8/32/48/32/1/false/Coop/16/16/16/16/4/7/-1/641/800/Blue Rooster/Coop",
+          "AdultSprite": "assets/Blue Rooster.png",
+          "BabySprite": "assets/BabyBlue Rooster.png",
+          "Localization": {
+            "de": [ "Blaues Hahn", "Hühnerstall" ],
+            "es": [ "gallo azul", "corral" ],
+            "ja": [ "青ニおんどり", "小屋" ],
+            "pt": [ "Galo azul", "Galinheiro" ],
+            "ru": [ "Голубая петух", "Птичник" ],
+            "zh": [ "蓝公鸡", "鸡舍" ],
+          },
+        },
+      ],
+    },
+  ]
+}

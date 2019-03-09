@@ -1,0 +1,13 @@
+{
+   "Name": "Paritee's Void Roosters",
+   "Author": "Paritee",
+   "Version": "2.0.0",
+   "Description": "BFAV content pack for Void Roosters",
+   "UniqueID": "Paritee.VoidRoosters",
+   "MinimumApiVersion": "2.11",
+   "UpdateKeys": [ "Nexus:3306" ],
+   "ContentPackFor": {
+      "UniqueID": "Paritee.BetterFarmAnimalVariety",
+      "MinimumVersion": "3.0.0"
+   }
+}
