@@ -29,9 +29,9 @@ There are a few key values to note in the string. Each value is delimited by a `
 | 14 | `<Show Different Texture>` | Used for indicating an animal with a secondary texture (ex. `Sheep`) when ready for harvest. Accepts true/false. Animals that have this set to `true` must also have a `ShearedType` asset loaded. | `false` |
 | 22 | `<Harvest Tool>` | The [tool](https://stardewvalleywiki.com/Tools) required to harvest from animals with the `tool` harvest type, `-1` for animals with the `none` harvest type and  `null` otherwise | `Milk Pail` |
 
-#### Automatic
+#### Lay
 
-Animals with the `automatic` harvest type will spawn their produce inside of their animal homes each day.
+Animals with the `lay` harvest type will spawn their produce inside of their animal homes each day.
 
 | Index | Value |
 | --- | --- |
@@ -39,9 +39,9 @@ Animals with the `automatic` harvest type will spawn their produce inside of the
 | 14 | `false` |
 | 22 | `null` |
 
-#### Tool
+#### Grab
 
-Animals with the `tool` harvest type must be interacted with while holding the tool specified (ex. `Milk Pail`).
+Animals with the `grab` harvest type must be interacted with while holding the tool specified (ex. `Milk Pail`).
 
 | Index | Value |
 | --- | --- |
