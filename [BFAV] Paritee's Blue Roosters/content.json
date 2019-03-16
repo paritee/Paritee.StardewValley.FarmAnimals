@@ -1,4 +1,5 @@
 {
+  "Format": "1.0",
   "Categories": [
     {
       "Action": "Update",
@@ -7,8 +8,10 @@
         {
           "Type": "Blue Rooster",
           "Data": "1/3/176/174/rooster/8/32/48/32/8/32/48/32/1/false/Coop/16/16/16/16/4/7/-1/641/800/Blue Rooster/Coop",
-          "AdultSprite": "assets/Blue Rooster.png",
-          "BabySprite": "assets/BabyBlue Rooster.png",
+          "Sprites": {
+            "Adult": "assets/Blue Rooster.png",
+            "Baby": "assets/BabyBlue Rooster.png",
+          },
           "Localization": {
             "de": [ "Blaues Hahn", "Hühnerstall" ],
             "es": [ "gallo azul", "corral" ],

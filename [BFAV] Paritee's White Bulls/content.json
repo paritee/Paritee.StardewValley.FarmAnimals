@@ -1,4 +1,5 @@
 {
+  "Format": "1.0",
   "Categories": [
     {
       "Action": "Update",
@@ -7,8 +8,10 @@
         {
           "Type": "White Bull",
           "Data": "1/5/184/186/cow/36/64/64/64/36/64/64/64/1/false/Barn/32/32/32/32/15/5/-1/639/1500/White Bull/Barn",
-          "AdultSprite": "assets/White Bull.png",
-          "BabySprite": "assets/BabyWhite Bull.png",
+          "Sprites": {
+            "Adult": "assets/White Bull.png",
+            "Baby": "assets/BabyWhite Bull.png",
+          },
           "Localization": {
             "de": [ "Weißer Stier", "Stall" ],
             "es": [ "toro blanco", "establo" ],

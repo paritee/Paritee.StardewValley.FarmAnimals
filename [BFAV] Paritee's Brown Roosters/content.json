@@ -1,4 +1,5 @@
 {
+  "Format": "1.0",
   "Categories": [
     {
       "Action": "Update",
@@ -7,8 +8,10 @@
         {
           "Type": "Brown Rooster",
           "Data": "1/3/176/174/rooster/8/32/48/32/8/32/48/32/1/false/Coop/16/16/16/16/4/7/-1/641/800/Brown Rooster/Coop",
-          "AdultSprite": "assets/Brown Rooster.png",
-          "BabySprite": "assets/BabyBrown Rooster.png",
+          "Sprites": {
+            "Adult": "assets/Brown Rooster.png",
+            "Baby": "assets/BabyBrown Rooster.png",
+          },
           "Localization": {
             "de": [ "Brauner Hahn", "Hühnerstall" ],
             "es": [ "gallo pardo", "corral" ],

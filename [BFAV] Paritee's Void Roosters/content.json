@@ -1,4 +1,5 @@
 {
+  "Format": "1.0",
   "Categories": [
     {
       "Action": "Update",
@@ -7,8 +8,10 @@
         {
           "Type": "Void Rooster",
           "Data": "1/3/176/174/rooster/8/32/48/32/8/32/48/32/1/false/Coop/16/16/16/16/4/7/-1/641/800/Void Rooster/Coop",
-          "AdultSprite": "assets/Void Rooster.png",
-          "BabySprite": "assets/BabyVoid Rooster.png",
+          "Sprites": {
+            "Adult": "assets/Void Rooster.png",
+            "Baby": "assets/BabyVoid Rooster.png",
+          },
           "Localization": {
             "de": [ "Schatten Hahn", "Hühnerstall" ],
             "es": [ "gallo sombría", "corral" ],

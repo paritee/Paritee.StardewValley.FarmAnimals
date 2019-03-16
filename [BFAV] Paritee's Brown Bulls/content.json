@@ -1,4 +1,5 @@
 {
+  "Format": "1.0",
   "Categories": [
     {
       "Action": "Update",
@@ -7,8 +8,10 @@
         {
           "Type": "Brown Bull",
           "Data": "1/5/-1/-1/cow/36/64/64/64/36/64/64/64/1/false/Barn/32/32/32/32/15/5/-1/639/1500/Brown Bull/Barn",
-          "AdultSprite": "assets/Brown Bull.png",
-          "BabySprite": "assets/BabyBrown Bull.png",
+          "Sprites": {
+            "Adult": "assets/Brown Bull.png",
+            "Baby": "assets/BabyBrown Bull.png",
+          },
           "Localization": {
             "de": [ "Brauner Stier", "Stall" ],
             "es": [ "toro pardo", "establo" ],

@@ -1,4 +1,5 @@
 {
+  "Format": "1.0",
   "Categories": [
     {
       "Action": "Update",
@@ -7,8 +8,10 @@
         {
           "Type": "Drake",
           "Data": "2/5/442/444/Duck/8/32/48/32/8/32/48/32/1/false/Coop/16/16/16/16/3/8/-1/642/4000/Drake/Coop",
-          "AdultSprite": "assets/Drake.png",
-          "BabySprite": "assets/BabyDrake.png",
+          "Sprites": {
+            "Adult": "assets/Drake.png",
+            "Baby": "assets/BabyDrake.png",
+          },
           "Localization": {
             "de": [ "Erpel", "Hühnerstall" ],
             "es": [ "pato macho", "corral" ],
@@ -19,9 +22,6 @@
           },
         },
       ],
-      "AnimalShop": {
-        "Icon": "assets/AnimalShop.png",
-      }
     },
   ]
 }

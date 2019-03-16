@@ -1,4 +1,5 @@
 {
+  "Format": "1.0",
   "Categories": [
     {
       "Action": "Update",
@@ -7,9 +8,11 @@
         {
           "Type": "Ram",
           "Data": "3/4/440/-1/sheep/24/64/84/64/24/64/84/64/1/true/Barn/32/32/32/32/15/5/Shears/644/8000/Ram/Barn",
-          "AdultSprite": "assets/Ram.png",
-          "BabySprite": "assets/BabyRam.png",
-          "ShearedSprite": "assets/ShearedRam.png",
+          "Sprites": {
+            "Adult": "assets/Ram.png",
+            "Baby": "assets/BabyRam.png",
+            "ReadyForHarvest": "assets/ShearedRam.png",
+          },
           "Localization": {
             "de": [ "Widder", "Stall" ],
             "es": [ "carnero", "establo" ],

@@ -1,4 +1,5 @@
 {
+  "Format": "1.0",
   "Categories": [
     {
       "Action": "Update",
@@ -7,8 +8,10 @@
         {
           "Type": "White Rooster",
           "Data": "1/3/176/174/rooster/8/32/48/32/8/32/48/32/1/false/Coop/16/16/16/16/4/7/-1/641/800/White Rooster/Coop",
-          "AdultSprite": "assets/White Rooster.png",
-          "BabySprite": "assets/BabyWhite Rooster.png",
+          "Sprites": {
+            "Adult": "assets/White Rooster.png",
+            "Baby": "assets/BabyWhite Rooster.png",
+          },
           "Localization": {
             "de": [ "Weißer Hahn", "Hühnerstall" ],
             "es": [ "gallo blanco", "corral" ],
