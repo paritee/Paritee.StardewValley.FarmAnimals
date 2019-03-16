@@ -26,7 +26,7 @@ There are a few key values to note in the string. Each value is delimited by a `
 | Index | Syntax | Description | White Cow Value |
 | --- | --- | --- | --- |
 | 13 | `<Harvest Type>` | The way in which produce is harvested from the animal. Accepts `0`, `1`, or `2`. The `Hog` type is the only animal which uses the value `2` and does not allow an animal with this harvest type to be named (will be referred to as "It") | `1` |
-| 14 | `<Show Different Texture>` | Used for indicating an animal with a secondary texture (ex. `Sheep`) when ready for harvest. Accepts true/false. Animals that have this set to `true` must also have a `ShearedType` asset loaded. | `false` |
+| 14 | `<Show Different Texture When Ready to Harvest>` | Used for indicating an animal with a secondary texture (ex. `Sheep`) when ready for harvest. Accepts true/false. Animals that have this set to `true` must also have a `ShearedType` asset loaded. | `false` |
 | 22 | `<Harvest Tool>` | The [tool](https://stardewvalleywiki.com/Tools) required to harvest from animals with the `tool` harvest type, `-1` for animals with the `none` harvest type and  `null` otherwise | `Milk Pail` |
 
 #### Lay
